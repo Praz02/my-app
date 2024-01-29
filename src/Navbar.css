@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+
+.navbar{
+    background-color: bisque;
+    padding: 15px;
+    
+}
+
+#nav{
+    display: flex;
+    justify-content: flex-start;
+    font-family: 'Salsa', cursive;
+}
+.img{
+    position: absolute;
+    right: 20px;
+}
+.darkMode{
+    border-radius: 5px;
+}
+

@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+
+#text_area{
+    border-radius: 20px;
+    border: 2px solid black;
+    left: 20vw;
+    position: absolute;
+    height: 35vh;
+    width: 60vw;
+    
+
+}
+
+#h{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Salsa', cursive;
+}
+.button{
+    position: absolute;
+    right: 40vw;
+    top: 58vh;
+
+}
+.btn{
+   
+   
+    border-radius: 10px;
+    border: 2px solid red;
+    background-color: antiquewhite;
+    text-decoration: solid;
+    color: black;
+}
+
+.btn:hover{
+    background-color: chartreuse;
+    color: black;
+}
